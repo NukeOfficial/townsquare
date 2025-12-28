@@ -3,6 +3,7 @@
 ## Upcomming Version
 - Features:
   - Adding the Hindu
+  - Filter out of play characters in night order
 - Fixes:
   - Typo in english menu tabs ("Jeu" instead of "Gameplay")
   - Wrong composition for Teensyville scripts
